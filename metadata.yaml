@@ -1,0 +1,28 @@
+_repo: Over-the-Border_40600
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitaker, Herman
+    birthdate: 1867
+    deathdate: 1919
+    gutenberg_agent_id: '38132'
+    url: http://www.gutenberg.org/2009/agents/38132
+description: ''
+gutenberg_issued: '2012-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Outlaws -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Mexico -- Fiction'
+title: 'Over the Border: A Novel'
+url: http://www.gutenberg.org/ebooks/40600
